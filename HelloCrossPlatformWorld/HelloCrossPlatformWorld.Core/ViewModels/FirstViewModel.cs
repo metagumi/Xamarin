@@ -5,7 +5,7 @@ namespace HelloCrossPlatformWorld.Core.ViewModels
     public class FirstViewModel
         : MvxViewModel
     {
-        string hello = "Hello Xamarin in Action, Again too";
+        string hello = "Hello Xamarin in Action";
         public string Hello
         {
             get { return hello; }
